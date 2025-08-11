@@ -38,9 +38,9 @@ npm install
 
 # 4. Run the dev server
 npm run dev
-Open http://localhost:5173 in your browser 🌐```
+Open http://localhost:5173 in your browser 🌐
 
-
+```
 # 🎮 How to Play
 Orbit → Click & drag to rotate the camera.
 Zoom → Scroll in and out.
